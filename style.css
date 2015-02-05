@@ -1,0 +1,40 @@
+body {
+        margin: 0px;
+        padding: 0px;
+        text-align: center;
+        color: black;
+        font-family: 'Arial', 'sans';
+        font-size: 9px;
+    }
+
+.minitext {
+	font-size: 10px !important;
+    height: 30px !important;
+}
+   @media screen and (max-width: 600px) {
+   		 img[class="crystal"] {
+            height: auto !important;
+            width: 20% !important;
+        }
+       
+       table[class="wrapper"] {
+     	width: 90% !important;
+       }
+       
+       img[class="copy"] {
+       	width: 100% !important;
+       	height: auto !important;
+       }
+       
+       table[class="footer"] {
+       	width: 90% !important;
+       }
+       
+       body p.text {
+       	font-size: 20px !important;
+       	width: 70% !important;
+       }
+       
+       
+   }
+       
