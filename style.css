@@ -10,6 +10,7 @@ body {
 .minitext {
 	font-size: 10px !important;
     height: 30px !important;
+    padding: 20px !important;
 }
    @media screen and (max-width: 600px) {
    		 img[class="crystal"] {
